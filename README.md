@@ -8,7 +8,7 @@ Hello! I'm Edward Crabbe, a recent Mechanical Engineering Graduate at Lehigh Uni
 
 ## Projects
 
-### Project 2: MATLAB Analysis
+### Project 1: MATLAB Analysis
 - **Description:** MATLAB project analyzing data with scripts and visualizations.
 ![imag1](assets/Project-2_MATLAB-images-0.jpeg)
 ![imag2](assets/Project-2_MATLAB-images-1.jpeg)
